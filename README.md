@@ -10,7 +10,7 @@ The application is built with a focus on simplicity, responsiveness, and accessi
 - **Build Tool:** Vite v8
 - **Styling:** Tailwind CSS (via inline utility classes) & Vanilla CSS
 - **Icons:** Lucide React
-- **AI Integration:** Google Gemini API (`gemini-3.5-flash`)
+- **AI Integration:** Google Gemini API (`gemini-1.5-flash`)
 
 ## 📂 Key Files & Project Structure
 
